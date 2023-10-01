@@ -1,0 +1,18 @@
+<!-- //<h6>1-8-HTML-Structure-Doctype-html-head-meta-title-body</h6> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="red-snapper-fish.png" type="image/x-icon">   <!-- this is favicon -->
+    
+    <title>my-web-sities</title>
+</head>
+<body>
+    <h1>1-8-HTML-Structure-Doctype-html-head-meta-title-body</h1>
+    <footer>
+        <small>All rights reserved</small>
+    </footer>
+</body>
+</html>
